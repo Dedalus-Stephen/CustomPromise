@@ -54,7 +54,7 @@ class CustomPromise {
     //binded to /this/ Object Variable
     onFulfilled(val) {
         //once settled can't go back
-        if (this.state = states[0]) {
+        if (this.state === states[0]) {
             this.state = states[1];
             this.val = val;
             //notify waiting promises about success
