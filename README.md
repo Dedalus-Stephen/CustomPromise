@@ -1,2 +1,2 @@
-# CustomPromise
-A custom implementation of the JS Promises
+# Custom JS tools
+A custom implementation of the different JS features
