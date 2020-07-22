@@ -1,2 +1,2 @@
 # Custom JS tools
-A custom implementations of different JS features
+Custom implementations of different JS features
